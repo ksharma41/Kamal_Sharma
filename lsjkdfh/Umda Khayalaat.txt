@@ -1,0 +1,4 @@
+git branch xyz  (create new branch)
+git branch --list  (lists branches)
+git switch xys (switch to branch xyz)
+git checkout -b xyz  (two commands in one)
